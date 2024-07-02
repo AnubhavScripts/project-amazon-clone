@@ -1,0 +1,2 @@
+--global user.name "Anubhav Parashar"
+--global user.email kanubhav998@gmail.com
